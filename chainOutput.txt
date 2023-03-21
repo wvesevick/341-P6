@@ -1,0 +1,52 @@
+Welcome to the Anglo-Saxon Castle
+1) Linear Probing
+2) Separate Chaining
+3) Cuckoo Hashing
+0) Quit
+Please Enter Your Choice:
+*************************
+You have selected Separate Chaining
+How large would you like the table
+1) Load Table From File
+2) Insert
+3) Search
+4) Delete
+5) Print Hash Table
+0) Quit
+LOADING TABLE FROM FILE
+What File Would You Like to Load?
+1) Load Table From File
+2) Insert
+3) Search
+4) Delete
+5) Print Hash Table
+0) Quit
+PRINTING HASH TABLE
+0 --> 21 --> 42 --> 63 --> 84 --> 378 --> 21
+1
+2
+3 --> 87
+4
+5
+6
+7
+8
+9
+10 --> 892
+11
+12 --> 894
+13
+14
+15 --> 267
+16 --> 58
+17 --> 920 --> 38
+18 --> 732
+19
+20
+1) Load Table From File
+2) Insert
+3) Search
+4) Delete
+5) Print Hash Table
+0) Quit
+Quiting Program
