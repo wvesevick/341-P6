@@ -1,0 +1,17 @@
+Welcome to the Anglo-Saxon Castle
+1) Linear Probing
+2) Separate Chaining
+3) Cuckoo Hashing
+0) Quit
+Please Enter Your Choice:
+*************************
+You have selected Cuckoo Hashing
+How large would you like the table
+1) Load Table From File
+2) Insert
+3) Search
+4) Delete
+5) Print Hash Table
+0) Quit
+LOADING TABLE FROM FILE
+What File Would You Like to Load?
