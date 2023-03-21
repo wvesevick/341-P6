@@ -1,0 +1,66 @@
+Welcome to the Anglo-Saxon Castle
+1) Linear Probing
+2) Separate Chaining
+3) Cuckoo Hashing
+0) Quit
+Please Enter Your Choice:
+*************************
+You have selected Linear Probing
+How large would you like the table
+1) Load Table From File
+2) Insert
+3) Search
+4) Delete
+5) Print Hash Table
+0) Quit
+LOADING TABLE FROM FILE
+What File Would You Like to Load?
+SUCCESSFUL INSERT OF 920 INTO 17
+SUCCESSFUL INSERT OF 732 INTO 18
+SUCCESSFUL INSERT OF 267 INTO 15
+SUCCESSFUL INSERT OF 21 INTO 0
+SUCCESSFUL INSERT OF 42 INTO 1
+SUCCESSFUL INSERT OF 63 INTO 2
+SUCCESSFUL INSERT OF 38 INTO 19
+SUCCESSFUL INSERT OF 87 INTO 3
+SUCCESSFUL INSERT OF 84 INTO 4
+SUCCESSFUL INSERT OF 892 INTO 10
+SUCCESSFUL INSERT OF 378 INTO 5
+Number Already In Table
+SUCCESSFUL INSERT OF 894 INTO 12
+SUCCESSFUL INSERT OF 58 INTO 16
+1) Load Table From File
+2) Insert
+3) Search
+4) Delete
+5) Print Hash Table
+0) Quit
+PRINTING HASH TABLE
+Table Spot 0 = 21
+Table Spot 1 = 42
+Table Spot 2 = 63
+Table Spot 3 = 87
+Table Spot 4 = 84
+Table Spot 5 = 378
+Table Spot 6 = 0
+Table Spot 7 = 0
+Table Spot 8 = 0
+Table Spot 9 = 0
+Table Spot 10 = 892
+Table Spot 11 = 0
+Table Spot 12 = 894
+Table Spot 13 = 0
+Table Spot 14 = 0
+Table Spot 15 = 267
+Table Spot 16 = 58
+Table Spot 17 = 920
+Table Spot 18 = 732
+Table Spot 19 = 38
+Table Spot 20 = 0
+1) Load Table From File
+2) Insert
+3) Search
+4) Delete
+5) Print Hash Table
+0) Quit
+Quiting Program
